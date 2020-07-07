@@ -8,10 +8,10 @@
 ############################################################
 # Name           : Moonton Account Checker                 #
 # File           : moonton.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
+# Author         : Surya                                  #
+# Github         : https://github.com/surya-id/MontonChecker            #
+# Facebook       : https://www.facebook.com/suryadi.gaulz         #
+# Telegram       : https://t.me/mr.suryadi                     #
 # Python version : 3.7++                                   #
 ############################################################
 
